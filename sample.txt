@@ -1,8 +1,7 @@
-<<<<<<< HEAD
+
 new toolbox
 
 Edited by second folder
-=======
 
 
 
@@ -29,6 +28,5 @@ Edited by second folder
 
 
 
-
-rol-niranjala - edited
->>>>>>> rol-niranjala
+rol-niranjala - edited 
+this file is also changed
